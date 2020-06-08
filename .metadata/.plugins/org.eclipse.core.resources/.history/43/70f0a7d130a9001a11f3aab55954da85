@@ -72,22 +72,17 @@ object LearningScala2 {
 	 // So, the result should be 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 	 var fib1 : Int = 0                       //> fib1  : Int = 0
 	 var fib2 : Int = 1                       //> fib2  : Int = 1
-	 var temp : Int = 0                       //> temp  : Int = 0
 	 for (i <- 1 to 10){
-	     println(fib1)
-	     temp = fib1 + fib2
-	     fib1 = fib2
-	     fib2 = temp
-	     
-	 }                                        //> 0
-                                                  //| 1
-                                                  //| 1
-                                                  //| 2
-                                                  //| 3
-                                                  //| 5
-                                                  //| 8
-                                                  //| 13
-                                                  //| 21
-                                                  //| 34
+	     println(fib1)                        //> 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+                                                  //| 0
+	 }
 	   
 }

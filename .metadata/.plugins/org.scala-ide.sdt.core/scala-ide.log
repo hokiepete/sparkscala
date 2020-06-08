@@ -789,3 +789,57 @@ Java Model Exception: Java Model Status [SparkScalaCours does not exist]
 2020-06-07 21:51:59,840  WARN [Worker-23] - ScalaProject - Project LearningScala runs on platform default installation.
 2020-06-07 21:54:13,004  WARN [Worker-23] - ScalaProject - Project LearningScala has platform default sourceLevel.
 2020-06-07 21:54:13,005  WARN [Worker-23] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:32:15,183  WARN [Worker-27] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:32:15,183  WARN [Worker-27] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:32:17,127  WARN [Worker-25] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:32:17,127  WARN [Worker-25] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:33:09,750  WARN [Worker-25] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:33:09,750  WARN [Worker-25] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:33:24,432  WARN [Worker-27] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:33:24,433  WARN [Worker-27] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:33:26,182  WARN [Worker-16] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:33:26,183  WARN [Worker-16] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:34:51,086  WARN [Worker-21] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:34:51,086  WARN [Worker-21] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:34:52,728  WARN [Worker-26] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:34:52,729  WARN [Worker-26] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:36:13,034  WARN [Worker-16] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:36:13,034  WARN [Worker-16] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:36:13,730  WARN [Worker-25] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:36:13,731  WARN [Worker-25] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:36:23,700  WARN [Worker-27] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:36:23,700  WARN [Worker-27] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:36:25,444  WARN [Worker-27] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:36:25,444  WARN [Worker-27] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:37:09,812  WARN [Worker-26] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:37:09,812  WARN [Worker-26] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:37:11,559  WARN [Worker-21] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:37:11,559  WARN [Worker-21] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 22:40:42,183  WARN [Worker-25] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 22:40:42,183  WARN [Worker-25] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:04:15,748  WARN [Worker-28] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:04:15,749  WARN [Worker-28] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:04:16,463  WARN [Worker-16] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:04:16,463  WARN [Worker-16] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:04:26,711  WARN [Worker-28] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:04:26,711  WARN [Worker-28] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:04:28,421  WARN [Worker-28] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:04:28,421  WARN [Worker-28] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:04:53,869  WARN [Worker-21] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:04:53,869  WARN [Worker-21] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:04:55,557  WARN [Worker-26] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:04:55,558  WARN [Worker-26] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:05:07,166  WARN [Worker-16] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:05:07,166  WARN [Worker-16] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:05:08,892  WARN [Worker-21] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:05:08,892  WARN [Worker-21] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:06:56,253  WARN [Worker-26] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:06:56,253  WARN [Worker-26] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:06:56,909  WARN [Worker-26] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:06:56,909  WARN [Worker-26] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:08:21,483  WARN [Worker-30] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:08:21,483  WARN [Worker-30] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:08:23,214  WARN [Worker-30] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-06-07 23:08:23,214  WARN [Worker-30] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-06-07 23:08:36,238  WARN [main] - ScalaProject - Project SparkScalaCours has platform default sourceLevel.
+2020-06-07 23:08:36,239  WARN [main] - ScalaProject - Project SparkScalaCours runs on platform default installation.
